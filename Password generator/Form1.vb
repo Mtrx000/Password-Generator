@@ -5,7 +5,7 @@ Imports System.Windows.Forms.VisualStyles.VisualStyleElement
 Imports System.Windows.Forms.VisualStyles.VisualStyleElement.Button
 
 Public Class Form1
-    '                                                               Allink Project
+    '                                                               PG Project
     '                                                                          By Mtrx000
     '                                                               CONTACT ME ON DISCORD TO USE THIS CODE
     '                                                         Discord: r3vil_
@@ -19,7 +19,7 @@ Public Class Form1
         Label3.Text = password
     End Sub
 
-    '                                                               Allink Project
+    '                                                               PG Project
     '                                                                          By Mtrx000
     '                                                               CONTACT ME ON DISCORD TO USE THIS CODE
     '                                                         Discord: r3vil_
@@ -29,7 +29,7 @@ Public Class Form1
         MessageBox.Show("Copied To Clipboard !")
     End Sub
 
-    '                                                               Allink Project
+    '                                                               PG Project
     '                                                                          By Mtrx000
     '                                                               CONTACT ME ON DISCORD TO USE THIS CODE
     '                                                         Discord: r3vil_
@@ -57,7 +57,7 @@ Public Class Form1
 End Class
 
 
-'                                                               Allink Project
+'                                                               PG Project
 '                                                                          By Mtrx000
 '                                                               CONTACT ME ON DISCORD TO USE THIS CODE
 '                                                         Discord: r3vil_
